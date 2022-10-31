@@ -141,5 +141,7 @@ pip3 install flask
 
 名称任选，URL一栏输入：`http://IP:12345/update`，勾选**HeaderAddToFavorites**和**HeaderRemoveFromFavorites**，储存即可，测试会报错，正常。
 
+![](http://tva1.sinaimg.cn/large/007dA9Degy1h7o89q9cr7j316s0s4780.jpg)
+
 现在你可以去收藏一个电视剧，看看机器人是否会提示你收藏成功。若一切顺利，Ctrl+C结束前台运行，输入命令`nohup python3 /root/api_notify.py  > /root/api_notify.log 2>&1 &`后台运行。
 
