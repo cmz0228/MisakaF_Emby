@@ -139,9 +139,7 @@ pip3 install flask
 
 进入Emby后台，安装Webhook插件(一般自带，服务端需要激活)。进入Webhook插件设置界面，点击**添加 Webhook**：
 
-URL一栏输入：`http://IP:12345/update`，勾选**User**，储存即可，测试会报错，正常。
-
-![](http://tva1.sinaimg.cn/large/007dA9Degy1h772qezp4ej316u0s7n0c.jpg)
+名称任选，URL一栏输入：`http://IP:12345/update`，勾选**HeaderAddToFavorites**和**HeaderRemoveFromFavorites**，储存即可，测试会报错，正常。
 
 现在你可以去收藏一个电视剧，看看机器人是否会提示你收藏成功。若一切顺利，Ctrl+C结束前台运行，输入命令`nohup python3 /root/api_notify.py  > /root/api_notify.log 2>&1 &`后台运行。
 
