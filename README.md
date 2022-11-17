@@ -12,4 +12,7 @@
 #### [收藏剧集更新自动通知](https://github.com/MisakaF0406/MisakaF_Emby/tree/main/favorite)
 
 
+#### [Emby客户端内插入第三方播放器跳转链接](https://github.com/MisakaF0406/MisakaF_Emby/tree/main/ExternalUrl)
+
+
 交流社群：https://t.me/MisakaF_Emby
