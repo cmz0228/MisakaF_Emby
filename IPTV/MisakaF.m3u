@@ -17,8 +17,8 @@ http://194.87.169.131:34400/stream/63c55ad2c0cb0a1a0b4c81fa8495712b
 http://194.87.169.131:34400/stream/690479e67d5b2655959222274f9f37af
 #EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="CCTV16-4K" tvg-id="1008" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="==世界杯专区==",CCTV16-4K
 http://194.87.169.131:34400/stream/3bc04ab54670ba4eadd14915c9c1bb0f
-#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="FOX SPORTS 1 HD" tvg-id="1009" tvg-logo="http://logourl.net/COBRALOGO/USA/SPORTS/FOXSPORTS1.png" group-title="SPORTS",FOX SPORTS 1 HD
-http://194.87.169.131:34400/stream/a727bb1fcb2124656bd5fba6fc5297b5
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="[US] FOX SPORTS 1 HD" tvg-id="1009" tvg-logo="http://logourl.net/4KOTTLOGO/WC4K2022.png" group-title="WorldCup",[US] FOX SPORTS 1 HD
+http://194.87.169.131:34400/stream/b0cea8c232fc0763ed3d322596b555e1
 #EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="咪咕4K" tvg-id="1010" tvg-logo="http://logourl.net/4KOTTLOGO/WC4K2022.png" group-title="咪咕直播",咪咕4K
 http://194.87.169.131:34400/stream/3b0363a88635d612d4a1e1ea1ca97085
 #EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="咪咕1" tvg-id="1011" tvg-logo="http://logourl.net/4KOTTLOGO/WC4K2022.png" group-title="咪咕直播",咪咕1
@@ -31,3 +31,11 @@ http://194.87.169.131:34400/stream/f233fab51f981f52b5a69a0a0e44c92d
 http://194.87.169.131:34400/stream/ee91d0a770234c1a19bbd6cc760ccbc0
 #EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="咪咕5" tvg-id="1015" tvg-logo="http://logourl.net/4KOTTLOGO/WC4K2022.png" group-title="咪咕直播",咪咕5
 http://194.87.169.131:34400/stream/1524cee0d746ad1bb21b67543cdd7376
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="[UK] ITV 1 HD" tvg-id="1016" tvg-logo="http://logourl.net/4KOTTLOGO/WC4K2022.png" group-title="WorldCup",[UK] ITV 1 HD
+http://194.87.169.131:34400/stream/fc42aa2d033ee17032ec28cf18051660
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="[UK] BBC HD" tvg-id="1017" tvg-logo="http://logourl.net/4KOTTLOGO/WC4K2022.png" group-title="WorldCup",[UK] BBC HD
+http://194.87.169.131:34400/stream/2a17c7cd4e2cb58c87b2487ad5ebc9d7
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="[AR] BeinSport 4K" tvg-id="1018" tvg-logo="http://logourl.net/4KOTTLOGO/WC4K2022.png" group-title="WorldCup",[AR] BeinSport 4K
+http://194.87.169.131:34400/stream/28a05c699e1d16dc716f187504525af0
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="[HK] NOWSPORTS EPL 4K" tvg-id="1019" tvg-logo="http://logourl.net/4KOTTLOGO/WC4K2022.png" group-title="WorldCup",[HK] NOWSPORTS EPL 4K
+http://194.87.169.131:34400/stream/27acb8dbfc0e825a8cd10c1c6b422969
